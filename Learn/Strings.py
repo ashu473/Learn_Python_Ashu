@@ -31,5 +31,5 @@ print(str[-3:-1]) # av -> as APPLE idexing in -ve is -5 -4 -3 -2 -1
 print(str.endswith("er")) # True
 print(str.replace("e","m")) # replace all occurence (old,new) Java Dmvmlopmr
 print(str.replace("m","e"))
-print(str.find("lop")) # returns 1st indexof the 1st occurence
+print(str.find("lop")) # returns 1st indexof the 1st occurence i.e 9
 print(str.count("Dev")) # counts the occurence of substrings
